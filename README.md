@@ -1,7 +1,7 @@
 # RajmaBeats
-Arduino Bluetooth Speaker with ESP32 
-Circuit Design - https://app.cirkitdesigner.com/project/ca0bff60-7145-4b9c-8fc4-807459d7fccb<br/>
+Arduino Bluetooth Speaker with ESP32 <br/>
 Working demo - https://youtube.com/shorts/EGwdPzlQarI<br/>
+Circuit Design - https://app.cirkitdesigner.com/project/ca0bff60-7145-4b9c-8fc4-807459d7fccb<br/>
 Parts List:<br/>
 Speaker: https://www.mouser.com/ProductDetail/665-AS04004PO2LW152R <br/>
 Amplifier: https://www.amazon.com/Teyleten-Robot-Amplifier-Interface-Filterless/dp/B0B4GK5R1R<br/>
