@@ -1,5 +1,5 @@
 # RajmaBeats
-Arduino Bluetooth Speaker with ESP32 <br/>
+Bluetooth Speaker with a display made with ESP32 <br/>
 Working demo - https://youtube.com/shorts/EGwdPzlQarI<br/>
 Circuit Design - https://app.cirkitdesigner.com/project/ca0bff60-7145-4b9c-8fc4-807459d7fccb<br/>
 Parts List:<br/>
